@@ -1,4 +1,4 @@
-Gmail Haxor
+Gmail Automation
 =====================
 
 Author: @jjkilpatrick / http://johnjameskilpatrick.co.uk
