@@ -11,7 +11,7 @@ NOTE: I am not responsible for any trouble you get into or cause using this scri
 
 1. Ensure you have PhantomJS installed on your machine. I suggest using Homebrew: http://phantomjs.org/
 2. Ensure you have CasperJS installed on your machine I suggest using Homebrew: http://casperjs.org
-3. Clone the repo: `git@bitbucket.org:jjkilpatrick/gmail-hacker.git`
+3. Clone the repo: `https://github.com/jjkilpatrick/gmail-automation`
 4. Make sure that input/data.csv is populated with your emails. List should be comma seperated
 5. Then run "casperjs gmail.js"
 6. When the script has finished, your results will be found in the output directory 'output'
